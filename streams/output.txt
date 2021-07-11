@@ -1,0 +1,2 @@
+Merhaba Node.js Dunyasi
+Ornek bir text dosya.

@@ -1,0 +1,1 @@
+console.log("Alt Islem " + process.argv[2] + " calisti." );
